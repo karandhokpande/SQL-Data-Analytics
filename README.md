@@ -1,0 +1,1 @@
+RSVP Movies, an Indian film production company, seeks to plan analytically based on data and has requested your assistance. With data on movies released in the past 3 years, i have utilized SQL to analyze the information and provide insights and recommendations to guide their future decisions.
